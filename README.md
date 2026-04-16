@@ -73,7 +73,6 @@ For this project, key paths must exist:
 ~/armino/bk_solution_ai/projects/beken_genie
 ~/armino/toolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc
 
-<img width="1200" height="628" alt="litheli_logo_1200X628__1" src="https://github.com/user-attachments/assets/6044651e-5a9d-4c66-bd2a-f1c163f31a59" />
 
 
 If your laptop environment is complete.
