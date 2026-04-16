@@ -75,7 +75,6 @@ For this project, key paths must exist:
 
 
 
-
 If your laptop environment is complete.
 You can follow this instruction: 
 Step 1: Create workspace
